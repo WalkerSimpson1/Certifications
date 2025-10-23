@@ -1,4 +1,4 @@
-# Certifications
+<span style="font-size: 30px;">Certifications</span>
 ---
 
 ## Finance and Markets
