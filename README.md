@@ -10,7 +10,7 @@
 - Data Science of Government and Political Science *LinkedIn learning*: **Planned**
 ---
 
-> Updated regularly
+> Updated regularly<br>
 > All labelled as planned are to be completed by Dec. 1 2025
 
 
