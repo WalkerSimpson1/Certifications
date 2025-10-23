@@ -1,6 +1,6 @@
 ## Certifications
-
-
+  
+  
 ### Finance and Markets
 - Bloomberg Finance Fundamentals (BFF): **In progress**
 - Bloomberg Market Concepts (BMC): **Planned**
