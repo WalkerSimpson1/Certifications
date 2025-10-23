@@ -1,4 +1,4 @@
-## Certifications
+## Certifications  
 Completed certifications can be viewed as PDFs below README.md
 
 ### Finance and Markets
@@ -6,7 +6,7 @@ Completed certifications can be viewed as PDFs below README.md
 - Bloomberg Market Concepts (BMC): **Planned**
 - Bloomberg ESG and Sustainable Finance Solutions (ESG): **Planned**
 
-### Technical 
+### Technical
 - Excel for Financial Planning and Analysis *LinkedIn learning*: **Planned**
 - Data Science of Government and Political Science *LinkedIn learning*: **Planned**
 
