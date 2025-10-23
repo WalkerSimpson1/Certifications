@@ -1,5 +1,5 @@
-## Certifications  
-Completed certifications can be viewed as PDFs below README.md
+## Certifications
+
 
 ### Finance and Markets
 - Bloomberg Finance Fundamentals (BFF): **In progress**
@@ -11,7 +11,8 @@ Completed certifications can be viewed as PDFs below README.md
 - Data Science of Government and Political Science *LinkedIn learning*: **Planned**
 
 ---
-> Updated regularly<br>
+> Updated regularly  
+> Completed certifications can be viewed as PDFs below README.md  
 > All labelled as planned are to be completed by Dec. 1 2025
 
 
