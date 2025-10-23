@@ -1,5 +1,4 @@
-<span style="font-size: 30px;">Certifications</span>
----
+# Certifications
 
 ## Finance and Markets
 - Bloomberg Finance Fundamentals (BFF): **In progress**
