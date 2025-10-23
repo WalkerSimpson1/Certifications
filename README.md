@@ -1,4 +1,5 @@
 # Certifications
+Completed certifications can be viewed as PDFs below README.md
 
 ## Finance and Markets
 - Bloomberg Finance Fundamentals (BFF): **In progress**
