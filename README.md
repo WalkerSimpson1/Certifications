@@ -1,5 +1,5 @@
 # Certifications
-**My professional certifications portfolio**
+My professional certifications portfolio
 ---
 
 ## Finance and Markets
