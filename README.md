@@ -12,7 +12,7 @@
 
 ---
 > Updated regularly  
-> Completed certifications can be viewed as PDFs below README.md  
+> Completed certifications can be viewed in PDF below README.md  
 > All labelled as planned are to be completed by Dec. 1 2025
 
 
