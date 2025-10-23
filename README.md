@@ -9,8 +9,8 @@ Completed certifications can be viewed as PDFs below README.md
 ## Technical 
 - Excel for Financial Planning and Analysis *LinkedIn learning*: **Planned**
 - Data Science of Government and Political Science *LinkedIn learning*: **Planned**
----
 
+---
 > Updated regularly<br>
 > All labelled as planned are to be completed by Dec. 1 2025
 
