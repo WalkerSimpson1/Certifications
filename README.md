@@ -10,7 +10,7 @@
 - Excel Essential Training (Microsoft 365) *LinkedIn learning*: **Planned**
 - Excel for Financial Planning and Analysis *LinkedIn learning*: **Planned**
 - Data Science of Government and Political Science *LinkedIn learning*: **Planned**
-- Carrying out research for policy and advocacy work *The Open University* **Planned**
+- Carrying out research for policy and advocacy work *The Open University*: **Planned**
 
 ---
 > Updated regularly  
