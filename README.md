@@ -13,9 +13,9 @@
 - Carrying out research for policy and advocacy work *The Open University*: **Planned**
 
 ---
-> Updated regularly  
-> Completed certifications can be viewed in PDF below README.md  
-> All labelled as planned are to be completed by Dec. 1 2025
+> Updated regularly.  
+> Completed certifications are linked above.  
+> All labelled as planned are to be completed by Dec. 1 2025.
 
 
 
