@@ -8,6 +8,7 @@
 
 ### Technical
 - Excel Essential Training (Microsoft 365) *LinkedIn learning*: **Completed**
+- Learning PowerPoint Desktop (Microsoft 365) *LinkedIn learning* **Completed**
 - Excel for Financial Planning and Analysis *LinkedIn learning*: **Planned**
 - Data Science of Government and Political Science *LinkedIn learning*: **Planned**
 - Carrying out research for policy and advocacy work *The Open University*: **Planned**
