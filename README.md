@@ -16,7 +16,7 @@
 ---
 > Updated regularly.  
 > Completed certifications are linked above.  
-> All labelled as planned are to be completed by Dec. 1 2025.
+> All labelled as planned are to be completed by Dec. 31 2025.
 
 
 
